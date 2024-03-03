@@ -1,0 +1,2 @@
+Projeto para agrupar em csv as linguagens de programação utilizadas por algumas empresas nos seus repositorios github
+e subir para meu repositorio publico: https://github.com/cortinhas30/linguagens-repositorios-empresas
